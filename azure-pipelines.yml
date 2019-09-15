@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'e6394f8a-b073-433f-ba0f-9d7c45556dd2'
+  azureSubscription: 'b9b6f226-94f7-47c8-8864-74b80c368afa'
   
   # Web app name
   webAppName: 'maven-reg-app'
